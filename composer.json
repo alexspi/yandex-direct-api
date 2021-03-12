@@ -1,5 +1,5 @@
 {
-  "name": "sitkoru/yandex-direct-api",
+  "name": "alexspi/yandex-direct-api",
   "description": "Client for Yandex.Direct API v5",
   "minimum-stability": "stable",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "doctrine/annotations": "^1.7",
     "doctrine/cache": "^1.8",
     "netresearch/jsonmapper": "^3.0.0",
-    "guzzlehttp/guzzle": "^6.5.5",
+   "guzzlehttp/guzzle": "^7.0.1",
     "psr/log": "^1.1.0"
   },
   "require-dev": {
